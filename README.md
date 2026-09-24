@@ -11,7 +11,107 @@
 🏛️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🏛️
 ```
 
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║  🌐 ESTABLISHING MAGICAL COMMUNICATION CRYSTALS...                         ║
+║  ⚡ MANA LINK STRENGTH: ████████████████████████████████████████ 100%      ║
+║  🔮 ACTIVATING INTERDIMENSIONAL GUILD CHAT PROTOCOLS...                    ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
+
+<a href="https://www.linkedin.com/in/pratyaksh-krishnna">
+  <img src="https://img.shields.io/badge/👔_LinkedIn_Guild-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0A33" />
+</a>
+<a href="https://x.com/pratyaksh_k">
+  <img src="https://img.shields.io/badge/🐦_X_Realm-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1A0A33" />
+</a>
+<a href="https://www.pratyakshworks.com/">
+  <img src="https://img.shields.io/badge/📜_Sacred_Portfolio-9146FF?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=1A0A33" />
+</a>
+<a href="mailto:pratyaksh.krish@gmail.com">
+  <img src="https://img.shields.io/badge/📨_Raven_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0A33" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pratyaksh-krishnna&label=⚡+Hero+Encounters&color=FFD700&style=for-the-badge" />
+
+<br/><br/>
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="700">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏰 「 LEGENDARY QUEST CHRONICLES 」
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=38,39,40,41&height=120&section=header&text=🗡️+Epic+Quests&fontSize=24&fontColor=FFD700" width="100%"/>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### ⚔️ DRAGON SLAYER QUEST
+**MULTI-MODAL RAG**
+```
+📋 QUEST TYPE: FastAPI + LangGraph Magic
+🌟 DIFFICULTY: ⭐⭐⭐⭐⭐
+⏰ STATUS: Completed
+💰 REWARD: Epic Loot
+🔥 BOSS DEFEATED: Unstructured Data Hydra
+```
+🏆 **LEGEND**: Enterprise RAG platform that ingests PDFs, images and web content, indexes them in pgvector and answers with grounded, streamed (SSE) responses. Celery + Redis workers, S3 storage, local models via Ollama, quality scored with RAGAS.
+
+[🗡️ VIEW QUEST LOG](https://github.com/pratyaksh-krishnna/MULTI-MODAL-RAG) · [🌐 LIVE DEMO](https://multi-modal-rag-pratyaksh.vercel.app)
+
+<a href="https://github.com/pratyaksh-krishnna/MULTI-MODAL-RAG">
+  <img src="https://ik.imagekit.io/5wegcvcxp/Resume-Multi-modal-rag/Local-Architecture.png" alt="Multi-Modal RAG architecture" width="100%">
+</a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🏋️‍♂️ IRON TEMPLE TRIAL
+**CLASS RECORDING RAG**
+```
+📋 QUEST TYPE: TypeScript + Bun Training
+🌟 DIFFICULTY: ⭐⭐⭐⭐⭐
+⏰ STATUS: Completed
+💰 REWARD: Legendary Gains
+🔥 BOSS: The Endless Lecture Wraith
+```
+💪 **GAINS**: Chat with your class recordings. Ask a question, get an answer grounded in the lecture and jump straight to the exact timestamped transcript chunk it came from. Bun, PostgreSQL + pgvector, Docker Compose.
+
+[🏋️‍♂️ ENTER DOJO](https://github.com/pratyaksh-krishnna/class-recording-rag)
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4abdfaec-c5b8-4e4b-9cb0-20da8079b259" width="120">
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🌟 SAGE'S WISDOM
+**NOTEBOOK-LLM**
+```
+📋 QUEST TYPE: TypeScript + pgvector Enlightenment
+🌟 DIFFICULTY: ⭐⭐⭐⭐⭐
+⏰ STATUS: In Progress
+💰 REWARD: Ancient Knowledge
+🔥 BOSS: Hallucination Demon
+```
+🧙‍♂️ **WISDOM**: A NotebookLM-style research notebook. Upload your sources (PDFs, links, notes), then chat with them through RAG and get answers backed by citations to the source. Full-stack TypeScript client/server with PostgreSQL + pgvector.
+
+[📚 STUDY SCROLLS](https://github.com/pratyaksh-krishnna/NOTEBOOK-LLM)
+
+<a href="https://github.com/pratyaksh-krishnna/NOTEBOOK-LLM">
+  <img src="assets/notebook-llm.png" alt="Notebook LLM" width="100%">
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -167,115 +267,7 @@ CHA: █████████░  90/100
 </tr>
 </table>
 
-</div>
-
----
-
-<div align="center">
-
-## 🏰 「 LEGENDARY QUEST CHRONICLES 」
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=38,39,40,41&height=120&section=header&text=🗡️+Epic+Quests&fontSize=24&fontColor=FFD700" width="100%"/>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-### ⚔️ DRAGON SLAYER QUEST
-**MULTI-MODAL RAG**
-```
-📋 QUEST TYPE: FastAPI + LangGraph Magic
-🌟 DIFFICULTY: ⭐⭐⭐⭐⭐
-⏰ STATUS: Completed
-💰 REWARD: Epic Loot
-🔥 BOSS DEFEATED: Unstructured Data Hydra
-```
-🏆 **LEGEND**: Enterprise RAG platform that ingests PDFs, images and web content, indexes them in pgvector and answers with grounded, streamed (SSE) responses. Celery + Redis workers, S3 storage, local models via Ollama, quality scored with RAGAS.
-
-[🗡️ VIEW QUEST LOG](https://github.com/pratyaksh-krishnna/MULTI-MODAL-RAG) · [🌐 LIVE DEMO](https://multi-modal-rag-pratyaksh.vercel.app)
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b6a66c3e-7f19-4f0e-8e04-3a3d3a3b1f8c" width="120">
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🏋️‍♂️ IRON TEMPLE TRIAL
-**CLASS RECORDING RAG**
-```
-📋 QUEST TYPE: TypeScript + Bun Training
-🌟 DIFFICULTY: ⭐⭐⭐⭐⭐
-⏰ STATUS: Completed
-💰 REWARD: Legendary Gains
-🔥 BOSS: The Endless Lecture Wraith
-```
-💪 **GAINS**: Chat with your class recordings. Ask a question, get an answer grounded in the lecture and jump straight to the exact timestamped transcript chunk it came from. Bun, PostgreSQL + pgvector, Docker Compose.
-
-[🏋️‍♂️ ENTER DOJO](https://github.com/pratyaksh-krishnna/class-recording-rag)
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4abdfaec-c5b8-4e4b-9cb0-20da8079b259" width="120">
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🌟 SAGE'S WISDOM
-**NOTEBOOK-LLM**
-```
-📋 QUEST TYPE: TypeScript + pgvector Enlightenment
-🌟 DIFFICULTY: ⭐⭐⭐⭐⭐
-⏰ STATUS: In Progress
-💰 REWARD: Ancient Knowledge
-🔥 BOSS: Hallucination Demon
-```
-🧙‍♂️ **WISDOM**: A NotebookLM-style research notebook. Upload your sources (PDFs, links, notes), then chat with them through RAG and get answers backed by citations to the source. Full-stack TypeScript client/server with PostgreSQL + pgvector.
-
-[📚 STUDY SCROLLS](https://github.com/pratyaksh-krishnna/NOTEBOOK-LLM)
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="120">
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏛️ 「 GUILD CONNECTIONS & SACRED BONDS 」
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=42,43,44,45&height=120&section=header&text=🤝+Guild+Network&fontSize=24&fontColor=FFD700" width="100%"/>
-
-```
-╔════════════════════════════════════════════════════════════════════════════╗
-║  🌐 ESTABLISHING MAGICAL COMMUNICATION CRYSTALS...                         ║
-║  ⚡ MANA LINK STRENGTH: ████████████████████████████████████████ 100%      ║
-║  🔮 ACTIVATING INTERDIMENSIONAL GUILD CHAT PROTOCOLS...                    ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
-
-<a href="https://www.linkedin.com/in/pratyaksh-krishnna">
-  <img src="https://img.shields.io/badge/👔_LinkedIn_Guild-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0A33" />
-</a>
-<a href="https://x.com/pratyaksh_k">
-  <img src="https://img.shields.io/badge/🐦_X_Realm-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1A0A33" />
-</a>
-<a href="https://www.pratyakshworks.com/">
-  <img src="https://img.shields.io/badge/📜_Sacred_Portfolio-9146FF?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=1A0A33" />
-</a>
-<a href="mailto:pratyaksh.krish@gmail.com">
-  <img src="https://img.shields.io/badge/📨_Raven_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0A33" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=pratyaksh-krishnna&label=⚡+Hero+Encounters&color=FFD700&style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95706c10d7ce" width="600">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,31,32,33,34,35,36,37&height=100&section=footer&text=⚔️+May+Your+Code+Be+Bug-Free+%26+Your+Gains+Be+Legendary+⚔️&fontSize=18&fontColor=FFD700" width="100%"/>
+<br/>
 
 **🏰 [ HERO'S JOURNEY CONTINUES... LEVEL UP NEVER ENDS! ] 🏰**
 

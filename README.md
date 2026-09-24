@@ -87,7 +87,9 @@
 
 [🏋️‍♂️ ENTER DOJO](https://github.com/pratyaksh-krishnna/class-recording-rag)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4abdfaec-c5b8-4e4b-9cb0-20da8079b259" width="120">
+<a href="https://github.com/pratyaksh-krishnna/class-recording-rag">
+  <img src="https://raw.githubusercontent.com/pratyaksh-krishnna/class-recording-rag/main/docs/assets/thumbnail.jpg" alt="Class Recording RAG" width="100%">
+</a>
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -106,7 +108,7 @@
 [📚 STUDY SCROLLS](https://github.com/pratyaksh-krishnna/NOTEBOOK-LLM)
 
 <a href="https://github.com/pratyaksh-krishnna/NOTEBOOK-LLM">
-  <img src="assets/notebook-llm.png" alt="Notebook LLM" width="100%">
+  <img src="https://raw.githubusercontent.com/pratyaksh-krishnna/NOTEBOOK-LLM/main/assets/thumbnail.jpg" alt="Notebook LLM" width="100%">
 </a>
 
 </td>

@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ ═══════════ 🏛️ HERO GUILD REGISTRATION 🏛️ ═══════════ ⚔️
+# ⚔️ ══════ 🏛️ HERO GUILD REGISTRATION 🏛️ ══════ ⚔️
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=32&duration=4000&pause=1500&color=FFD700&background=1A0A33&center=true&vCenter=true&multiline=true&width=900&height=140&lines=⚡+HERO+PRATYAKSH+KRISHNNA+HAS+ENTERED+THE+REALM+⚡;🏋️‍♂️+DUAL+CLASS%3A+CODE+MAGE+%2B+GYM+WARRIOR+🏋️‍♂️;🎯+CURRENT+QUEST%3A+DEEPENING+MASTERY+OF+THE+AI+REALM+🎯" alt="Isekai Hero Header" />
 
